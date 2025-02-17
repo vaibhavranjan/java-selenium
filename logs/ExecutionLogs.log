@@ -1,0 +1,19 @@
+16.02.2025 13:52:53,061 INFO  LoginPage:37 - username is entered
+16.02.2025 13:52:53,145 INFO  LoginPage:39 - password is entered
+16.02.2025 13:52:54,277 INFO  LoginPage:41 - user clicked on login button
+16.02.2025 16:57:59,408 INFO  LoginPage:38 - username is entered
+16.02.2025 17:01:08,832 INFO  LoginPage:38 - username is entered
+16.02.2025 17:01:09,110 INFO  LoginPage:41 - password is entered
+16.02.2025 17:01:09,400 INFO  LoginPage:44 - user clicked on login button
+16.02.2025 17:01:12,175 INFO  HomePage:33 - Admin link is clicked
+16.02.2025 17:01:12,646 INFO  HomePage:41 - profile picture link is clicked
+16.02.2025 17:01:13,707 INFO  HomePage:44 - logout link is clicked
+16.02.2025 17:07:43,633 INFO  LoginPage:38 - username is entered
+16.02.2025 17:07:43,932 INFO  LoginPage:41 - password is entered
+16.02.2025 17:07:44,174 INFO  LoginPage:45 - user clicked on login button
+16.02.2025 17:08:10,551 INFO  LoginPage:38 - username is entered
+16.02.2025 17:08:10,814 INFO  LoginPage:41 - password is entered
+16.02.2025 17:08:11,113 INFO  LoginPage:45 - user clicked on login button
+16.02.2025 17:08:13,725 INFO  HomePage:33 - Admin link is clicked
+16.02.2025 17:08:14,171 INFO  HomePage:42 - profile picture link is clicked
+16.02.2025 17:08:15,188 INFO  HomePage:46 - logout link is clicked
