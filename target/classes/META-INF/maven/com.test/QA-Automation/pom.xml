@@ -23,7 +23,7 @@
 				<version>3.5.2</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>launchGoogleTest.xml</suiteXmlFile>
+						<suiteXmlFile>orangehrmtest.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

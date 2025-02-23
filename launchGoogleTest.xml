@@ -5,5 +5,5 @@
     <classes>
       <class name="com.test.GoogleTest"/>
     </classes>
-  </test> <!-- launchGoogleTest -->
-</suite> <!-- Suite -->
+  </test>
+</suite>

@@ -17,3 +17,9 @@
 16.02.2025 17:08:13,725 INFO  HomePage:33 - Admin link is clicked
 16.02.2025 17:08:14,171 INFO  HomePage:42 - profile picture link is clicked
 16.02.2025 17:08:15,188 INFO  HomePage:46 - logout link is clicked
+23.02.2025 13:54:19,826 INFO  LoginPage:38 - username is entered
+23.02.2025 13:54:20,132 INFO  LoginPage:41 - password is entered
+23.02.2025 13:54:20,428 INFO  LoginPage:45 - user clicked on login button
+23.02.2025 13:54:22,883 INFO  HomePage:33 - Admin link is clicked
+23.02.2025 13:54:23,533 INFO  HomePage:42 - profile picture link is clicked
+23.02.2025 13:54:24,560 INFO  HomePage:46 - logout link is clicked
