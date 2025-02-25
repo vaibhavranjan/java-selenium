@@ -44,6 +44,7 @@ public class LoginPage {
 		Thread.sleep(2);
 		log.info("user clicked on login button");
 		ExtentReportUtils.addStep("user clicked on login button");
+		System.out.println("Test");
 
 	}
 
